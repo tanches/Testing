@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Resort>
+	<Settings id="1">
+
+	  <BaseUrl>http://rzd.ru/</BaseUrl>
+
+	  <Link>Все сайты</Link>
+
+	  <Type>Отдых и лечение</Type>
+
+	  <ActivityType>Отдых</ActivityType>
+	  
+	  <Region>Краснодарский край</Region>
+	  
+	  <ResortBase>База отдыха \"Нижегородец\"</ResortBase>
+
+	</Settings>
+</Resort>

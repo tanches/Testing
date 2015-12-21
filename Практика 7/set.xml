@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Resort>
+	<Settings id="1">
+	  <Link>Все сайты</Link>
+
+	  <Type>Отдых и лечение</Type>
+
+	  <ActivityType>Отдых</ActivityType>
+	  
+	  <Region>Краснодарский край</Region>
+
+	</Settings>
+		<Settings id="2">
+	  <Link>Все сайты</Link>
+
+	  <Type>Отдых и лечение</Type>
+
+	  <ActivityType>Отдых</ActivityType>
+	  
+	  <Region>Краснодарский край</Region>
+
+	</Settings>
+		<Settings id="3">
+	  <Link>Все сайты</Link>
+
+	  <Type>Отдых и лечение</Type>
+
+	  <ActivityType>Отдых</ActivityType>
+	  
+	  <Region>Краснодарский край</Region>
+
+	</Settings>
+</Resort>
